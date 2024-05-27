@@ -16,3 +16,9 @@ jobs:
         run: |
           echo "ERREUR: Seule la branche develop peut être fusionnée avec la branche main."
           exit 1
+
+
+
+
+
+          
